@@ -13,7 +13,7 @@ This project builds a secure Azure foundation using a hub-and-spoke model with g
 | VNets (Hub/Spoke) | Isolated workloads with secure routing |
 | Log Analytics | Centralized monitoring and auditing |
 
-## 🛡️ Compliance Mapping
+## 🛡️ CMMC Compliance Mapping
 | Control | Azure Feature | Description |
 |----------|----------------|--------------|
 | AC-2 | RBAC | Role-based access control for least privilege |
